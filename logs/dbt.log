@@ -1,0 +1,9 @@
+==================== 2026-11-12T17:14:20.357339Z | 01a1d0c0-d342-7082-9975-010924d1d692 ====================
+17:14:20.357910 [info ]: Installing dbt project and profile setup
+17:14:20.368542 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+17:14:20.368736 [info ]: Success Project created successfully!
+17:14:20.368813 [info ]: Info Project name: analytics
+17:14:20.368830 [info ]: Info Project directory: analytics
+17:14:21.778552 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [1.4s]
